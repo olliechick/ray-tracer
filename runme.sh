@@ -1,0 +1,2 @@
+./build-instructions.sh
+./RayTracer
