@@ -1,6 +1,8 @@
 # ray-tracer
 A ray tracer with various geometric objects, created for COSC363 at the University of Canterbury.
 
+![](screenshot.png?raw=true)
+
 ## How to run it
 
 Just run `./RayTracer`.
